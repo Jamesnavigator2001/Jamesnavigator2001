@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jamesnavigator2001
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Information Technology 
+- 🌱 I’m currently learning python 
 - 💞️ I’m looking to collaborate on python projects 
 - 📫 How to reach me jamesnavigator04@gmail.com
 - 
